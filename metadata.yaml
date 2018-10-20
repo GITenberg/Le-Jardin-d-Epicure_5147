@@ -1,5 +1,5 @@
 _repo: Le-Jardin-d-Epicure_5147
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Le Jardin d'Epicure
 covers:
 - cover_type: generated
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French essays'
 - !lcc 'PQ'
+- GITenberg
 title: Le Jardin d'Épicure
 url: http://www.gutenberg.org/ebooks/5147
